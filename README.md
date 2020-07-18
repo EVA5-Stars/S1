@@ -1,2 +1,2 @@
-# Week1_12_07_2020
-Quiz and Assignment for Week 1 
+# Week1: 12th July 2020
+Resources, Quiz and Assignment for Week 1 
