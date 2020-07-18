@@ -1,6 +1,6 @@
 # **EVA5-Assignment-1**
 
-## Students:
+## Group Mambers:
 - Sriram Iyengar
 - Gaurav Makkar
 - Mohit Bhandari
